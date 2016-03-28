@@ -9,7 +9,7 @@
 **Semester Year**
 
 
-**Instructor: **Dr. ××   
+**Instructor: **Dr. ××**   
 **Office**: Building Number  
 **Email**: abcd@ou.edu
 
@@ -29,36 +29,29 @@ information]
 
   
 Course
-Meeting Time and Location:_As listed in oZone.  If all online, please write ‘online’._
+Meeting Time and Location: _Online_
 
-Course Prerequisite:_As listed in oZone.  If there are not any course prerequisites,
-please write ‘none’._
+Course Prerequisite: _None_
 
-Course Delivery:_Traditon, Online, Blended,
-Flipped_
+Course Delivery: _Traditon, Online, Blended, Flipped_  
 
 ** **
 
-Course Description:_In about five sentences, describewhy this course exists, what will be
+Course Description: _In about five sentences, describewhy this course exists, what will be
 covered, and how it fits into the rest of the field/area’s curriculum.  Please reference the Course Description as
 listed in the Course Catalog and on oZone._
 
 ** **
 
-Course Goals:_What are the general outcomes the
+Course Goals: _What are the general outcomes the
 course designed to achieve? How will they contribute to the students
 professionally? Course goals are usually broad and general._
 
-Learning Outcomes:  
-_Learning outcomes are specific and
-measurable.  They specify, at the minimum, what students are expected to **know** and be able to **demonstrate** upon successful completion
-of the course.  Think of the kinds
-of evidence you can collect to assess student learning._
-
-_ _
+Learning Outcomes: _Learning outcomes are specific and
+measurable.  They specify, at the minimum, what students are expected to **know** and be able to **demonstrate** upon successful completion of the course.  Think of the kinds of evidence you can collect to assess student learning._
 
 ·     
-_Use _[_Bloom’s taxonomy_](http://www.teachthought.com/learning/249-blooms-taxonomy-verbs-for-critical-thinking/)_ to identify the focus of your learning outcomes, then select
+_Use Bloom’s taxonomy (http://www.teachthought.com/learning/249-blooms-taxonomy-verbs-for-critical-thinking/) to identify the focus of your learning outcomes, then select
 appropriate and measurable action verbs such as **“compare and contrast,” “evaluate,” “employ,” and “analyze.”**  _
 
 ·     
@@ -74,9 +67,7 @@ learning outcomes under categories if you have a long list of outcomes._
 
 _Consider including how each Learning Outcome will be assessed._
 
-###   
-
-Texts and Materials:
+### Texts and Materials:
 
 _List all of the
 text(s), materials, and any software for the course.  Be specific as to whether the item is
@@ -88,9 +79,6 @@ _If you have a long list of readings,
 please use an Appendix at the back of the syllabus._  
   
 
-[[See
-Faculty Handbook 4.25.1]](https://apps.hr.ou.edu/FacultyHandbook/)
-
 ### Teaching Philosophy:
 
 _Telling students what
@@ -98,8 +86,6 @@ teaching methods you will use in class and the rationale behind them will help
 them set realistic expectations. Providing your rationale can decrease student
 resistance to teaching methods that they may be less familiar and can increase
 their confidence in the processes in the course._
-
-** **
 
 ### Expectations:
 
@@ -126,17 +112,9 @@ return graded assignments. _
 
 _Provide a short description of the learning activities and assessments
 that will be used in the course._
-
- 
-
-Assessments* (each student
-must do each of the following)
-
  
 
-**Assessments*  
-**_(each student must
-  do each of the following)_
+**Assessments** 
 
  
 
@@ -152,8 +130,7 @@ must do each of the following)
 
  
 
-** Journal 
-  or Blogs**
+** Journal or Blogs**
 
  
 
@@ -252,13 +229,8 @@ are provided below.)_
 _There
 is not specific language for the Academic Integrity policy to be included in
 the syllabus.  It is good to become
-familiar with the policy and describe it in your own words. _[See [http://integrity.ou.edu/faculty_guide.html](http://integrity.ou.edu/faculty_guide.html)]
-
- 
-
- 
-
- 
+familiar with the policy and describe it in your own words._
+[See [http://integrity.ou.edu/faculty_guide.html](http://integrity.ou.edu/faculty_guide.html)]
 
 Cheating is strictly prohibited at
 the University of Oklahoma, because it devalues the degree you are working hard
@@ -266,9 +238,6 @@ to get. As a member of the OU community it is your responsibility to protect
 your educational investment by knowing and following the rules. For specific
 definitions on what constitutes cheating, review the Student’s Guide to
 Academic Integrity at [http://integrity.ou.edu/students_guide.html](http://integrity.ou.edu/students_guide.html)
-
-.
-
  
 
 To be successful in this class, all
@@ -282,7 +251,6 @@ obligation to report academic misconduct, which I will not hesitate to do.
 Sanctions for academic misconduct can include expulsion from the University and
 an F in this course, so don’t cheat. It’s simply not worth it.
 
-** **
 
 #### Religious Observance
 
@@ -304,7 +272,6 @@ Center is encourage, _[_http://www.ou.edu/drc/home.html_](http://www.ou.edu/drc/
 ._[[See Faculty
 Handbook 5.4]](https://apps.hr.ou.edu/FacultyHandbook/)
 
- 
 
 Students requiring academic accommodation
 should contact the Disability Resource Center for assistance at (405) 325-3852
@@ -315,11 +282,8 @@ from fully demonstrating his or her abilities should contact me personally as
 soon as possible so we can discuss accommodations necessary to ensure full
 participation and facilitate your educational opportunities.
 
- 
 
-**
-
-Title IX Resources and Reporting Requirement**
+**Title IX Resources and Reporting Requirement**
 
 For any concerns
 regarding gender-based discrimination, sexual harassment, sexual assault,
@@ -337,9 +301,7 @@ For more information, visit [http://www.ou.edu/eoo.html](http://www.ou.edu/eoo.h
 
  
 
-**
-
-Adjustments for Pregnancy/Childbirth Related Issues**
+**Adjustments for Pregnancy/Childbirth Related Issues**
 
 Should you need
 modifications or adjustments to your course requirements because of documented
@@ -371,85 +333,5 @@ for answers to commonly asked questions.
  
 
 **Assignments, Exams, or Readings**
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 ** **
