@@ -35,7 +35,7 @@ information]
 
 **Course Description**:  
 
-_In about five sentences, describewhy this course exists, what will be covered, and how it fits into the rest of the field/area’s curriculum.  Please reference the Course Description as listed in the Course Catalog and on oZone._
+_In about five sentences, describewhy this course exists, what will be covered, and how it fits into the rest of the field/area’s curriculum.  Please reference the Course Description as listed in the Course Catalog._
 
 **Course Goals**:  
 
@@ -48,12 +48,12 @@ _Learning outcomes are specific and measurable.  They specify, at the minimum, 
 _Use Bloom’s taxonomy (http://www.teachthought.com/learning/249-blooms-taxonomy-verbs-for-critical-thinking/) to identify the focus of your learning outcomes, then select appropriate and measurable action verbs such as **“compare and contrast,” “evaluate,” “employ,” and “analyze.”**_
 
 ·     
-_Do not use verbs such as “understand,” “learn” and “know” in your learning objectives because these words are too broad and cannot be measured._
+_Do not use verbs such as “understand,” “learn” and “know” in your learning objectives because these words are too broad and cannot be measured._  
 
 ·     
 _Put learning outcomes under categories if you have a long list of outcomes._
- 
-·   
+
+·     
 _Consider including how each Learning Outcome will be assessed._
 
 ### Texts and Materials:
@@ -148,11 +148,11 @@ _In this section, spell out what are your expectations for late work, attendance
 
 #### Make-up Policy 
 
-_In this section, you should clearly state a make-up policy that is in agreement with the relevant statements in the Faculty Handbook._[[See Faculty Handbook 4.7, 4.9, 4.10, and 4. 11]](https://apps.hr.ou.edu/FacultyHandbook/)
+_In this section, you should clearly state a make-up policy that is in agreement with the relevant statements in the Faculty Handbook._ [[See Faculty Handbook 4.7, 4.9, 4.10, and 4. 11]](https://apps.hr.ou.edu/FacultyHandbook/)
 
 #### Absences
 
-_In this section, you should clearly state an attendance policy that is in agreement with the relevant statements in the Faculty Handbook._  [[See Faculty Handbook 4.19]](https://apps.hr.ou.edu/FacultyHandbook/)  
+_In this section, you should clearly state an attendance policy that is in agreement with the relevant statements in the Faculty Handbook._ [[See Faculty Handbook 4.19]](https://apps.hr.ou.edu/FacultyHandbook/)  
 
 **Other Policies:** Civility, Emergency Contact, Late Assignments
 
@@ -180,8 +180,7 @@ It is the policy of the University to excuse the absences of students that resul
 
 _There is not specific language for the Reasonable Accommodation policy to be included in the syllabus.  It is good to become familiar with the policy and describe it in your own words.  Including the link to Disability Resources Center is encouraged: _http://www.ou.edu/drc/home.html_
 
-.
-_[[See Faculty Handbook 5.4]]_(https://apps.hr.ou.edu/FacultyHandbook/)
+[[See Faculty Handbook 5.4]](https://apps.hr.ou.edu/FacultyHandbook/)
 
 
 Students requiring academic accommodation should contact the Disability Resource Center for assistance at (405) 325-3852 or TDD: (405) 325-4173. For more information please see the Disability Resource Center website [http://www.ou.edu/drc/home.html](http://www.ou.edu/drc/home.html)  
