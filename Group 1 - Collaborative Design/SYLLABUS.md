@@ -19,40 +19,39 @@
 [Every Tuesday at 4:00 p.m. CST
 or by appointment or Virtual office hours available]
 
-**Learning Management
-System**: [https://learn.ou.edu](https://learn.ou.edu/)
+**Learning Management System**: [https://learn.ou.edu](https://learn.ou.edu/)
 
-Other: [Action Center, Course Web Site, Other contact
+**Other**: [Action Center, Course Web Site, Other contact
 information]  
   
 [[See Faculty Handbook 4.25]](https://apps.hr.ou.edu/FacultyHandbook/)
 
   
-Course
-Meeting Time and Location: _Online_
+**Course Meeting Time and Location**: _Online_
 
-Course Prerequisite: _None_
+**Course Prerequisite**: _None_
 
-Course Delivery: _Traditon, Online, Blended, Flipped_  
+**Course Delivery**: _Traditon, Online, Blended, Flipped_  
 
-** **
+**Course Description**:  
 
-Course Description: _In about five sentences, describewhy this course exists, what will be
+_In about five sentences, describewhy this course exists, what will be
 covered, and how it fits into the rest of the field/area’s curriculum.  Please reference the Course Description as
 listed in the Course Catalog and on oZone._
 
-** **
+**Course Goals**:  
 
-Course Goals: _What are the general outcomes the
+_What are the general outcomes the
 course designed to achieve? How will they contribute to the students
 professionally? Course goals are usually broad and general._
 
-Learning Outcomes: _Learning outcomes are specific and
+**Learning Outcomes**:  
+_Learning outcomes are specific and
 measurable.  They specify, at the minimum, what students are expected to **know** and be able to **demonstrate** upon successful completion of the course.  Think of the kinds of evidence you can collect to assess student learning._
 
 ·     
 _Use Bloom’s taxonomy (http://www.teachthought.com/learning/249-blooms-taxonomy-verbs-for-critical-thinking/) to identify the focus of your learning outcomes, then select
-appropriate and measurable action verbs such as **“compare and contrast,” “evaluate,” “employ,” and “analyze.”**  _
+appropriate and measurable action verbs such as **“compare and contrast,” “evaluate,” “employ,” and “analyze.”**_
 
 ·     
 _Do not use
@@ -164,12 +163,11 @@ that will be used in the course._
 * _The quality of all written assignments and
 presentation should be evaluated using a rubric._
 
-_It is important to
+* _It is important to
 provide information on the deadlines for any learning activities.  Including a table with all of the due dates
 can help students plan out their semester. 
 This can also be included in the calendar feature of the learning
 management system._
-
  
 
 ### Final Grade:
@@ -178,12 +176,10 @@ _It
 is important to be specific about your grading system.  Avoid long paragraphs; use headings, numbers,
 and bullets to chunk information._
 
-_ _
-
 _Clarify whether your system is point based, weighted,
 percentage, letter based, and whether there will be any adjustment to the final
 grade, either linear or Gaussian distribution (curved).  Be specific about the cutoff for each letter
-grade and whether these are predetermined or may be adjusted.  _
+grade and whether these are predetermined or may be adjusted._
 
 ### Additional Support for Learning
 
@@ -191,10 +187,9 @@ _As appropriate, list additional services
 that the students in your course might wish to use to support their learning.(
 Action Tutoring, Action Center, Writing Center…)_
 
-** **
+### Course Policies
 
-Course
-Policies_In this
+_In this
 section, spell out what are your expectations for late work, attendance, and
 other course specific policies. _
 
@@ -217,9 +212,7 @@ the relevant statements in the Faculty Handbook._  [[See Faculty Handbook 4.19]
 **Other Policies:** Civility, Emergency
 Contact, Late Assignments
 
-###   
-
-University Policies
+### University Policies
 
 _In this section, include the mandatory University policies. (Examples
 are provided below.)_
@@ -263,13 +256,11 @@ religious holidays, without penalty.
 
 #### Reasonable Accommodation Policy
 
-_There
-is not specific language for the Reasonable Accommodation policy to be included
-in the syllabus.  It is good to become
-familiar with the policy and describe it in your own words.  Including the link to Disability Resources
-Center is encourage, _[_http://www.ou.edu/drc/home.html_](http://www.ou.edu/drc/home.html)_
+_There is not specific language for the Reasonable Accommodation policy to be included
+in the syllabus.  It is good to become familiar with the policy and describe it in your own words.  Including the link to Disability Resources Center is encourage, _[_http://www.ou.edu/drc/home.html_](http://www.ou.edu/drc/home.html)_
 
-._[[See Faculty
+.
+_[[See Faculty
 Handbook 5.4]](https://apps.hr.ou.edu/FacultyHandbook/)
 
 
@@ -300,7 +291,6 @@ Equal Opportunity Officer and Title IX Coordinator at 405/325-3546 or [bjm@ou.ed
 For more information, visit [http://www.ou.edu/eoo.html](http://www.ou.edu/eoo.html).
 
  
-
 **Adjustments for Pregnancy/Childbirth Related Issues**
 
 Should you need
@@ -313,8 +303,6 @@ for answers to commonly asked questions.
 
 ### Tentative Schedule  
   
-
- 
 
 **Date(s)**
 
