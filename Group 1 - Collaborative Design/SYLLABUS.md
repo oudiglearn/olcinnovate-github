@@ -178,10 +178,10 @@ It is the policy of the University to excuse the absences of students that resul
 
 #### Reasonable Accommodation Policy
 
-_There is not specific language for the Reasonable Accommodation policy to be included in the syllabus.  It is good to become familiar with the policy and describe it in your own words.  Including the link to Disability Resources Center is encourage, _[_http://www.ou.edu/drc/home.html_](http://www.ou.edu/drc/home.html)_
+_There is not specific language for the Reasonable Accommodation policy to be included in the syllabus.  It is good to become familiar with the policy and describe it in your own words.  Including the link to Disability Resources Center is encouraged: _http://www.ou.edu/drc/home.html_
 
 .
-_[[See Faculty Handbook 5.4]](https://apps.hr.ou.edu/FacultyHandbook/)
+_[[See Faculty Handbook 5.4]]_(https://apps.hr.ou.edu/FacultyHandbook/)
 
 
 Students requiring academic accommodation should contact the Disability Resource Center for assistance at (405) 325-3852 or TDD: (405) 325-4173. For more information please see the Disability Resource Center website [http://www.ou.edu/drc/home.html](http://www.ou.edu/drc/home.html)  
