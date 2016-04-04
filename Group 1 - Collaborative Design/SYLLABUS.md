@@ -144,9 +144,7 @@ _As appropriate, list additional services that the students in your course might
 
 ### Course Policies
 
-_In this section, spell out what are your expectations for late work, attendance, and other course specific policies. _
-
-_ _
+_In this section, spell out what are your expectations for late work, attendance, and other course specific policies._
 
 #### Make-up Policy 
 
@@ -155,7 +153,6 @@ _In this section, you should clearly state a make-up policy that is in agreement
 #### Absences
 
 _In this section, you should clearly state an attendance policy that is in agreement with the relevant statements in the Faculty Handbook._  [[See Faculty Handbook 4.19]](https://apps.hr.ou.edu/FacultyHandbook/)  
-  
 
 **Other Policies:** Civility, Emergency Contact, Late Assignments
 
