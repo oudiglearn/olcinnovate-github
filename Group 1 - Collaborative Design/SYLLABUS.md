@@ -1,4 +1,4 @@
-**University of Oklahoma**
+**University of xxxx**
 
 **College**
 
@@ -11,31 +11,29 @@
 
 **Instructor: **Dr. ××**   
 **Office**: Building Number  
-**Email**: abcd@ou.edu
+**Email**:  
 
-**Phone**: (405) 325-XXXX  
-**Office Hours**: Date, Time, Location
+**Phone**:  
+**Office Hours**: Date, Time, Location  
 
 [Every Tuesday at 4:00 p.m. CST
 or by appointment or Virtual office hours available]
 
-**Learning Management System**: [https://learn.ou.edu](https://learn.ou.edu/)
+**Learning Management System**:  
 
 **Other**: [Action Center, Course Web Site, Other contact
 information]  
-  
-[[See Faculty Handbook 4.25]](https://apps.hr.ou.edu/FacultyHandbook/)
 
   
 **Course Meeting Time and Location**: _Online_
 
 **Course Prerequisite**: _None_
 
-**Course Delivery**: _Traditon, Online, Blended, Flipped_  
+**Course Delivery**: _Online, Blended, Flipped_  
 
 **Course Description**:  
 
-_In about five sentences, describewhy this course exists, what will be covered, and how it fits into the rest of the field/area’s curriculum.  Please reference the Course Description as listed in the Course Catalog._
+_In about five sentences, describe why this course exists, what will be covered, and how it fits into the rest of the field/area’s curriculum.  Please reference the Course Description as listed in the Course Catalog._
 
 **Course Goals**:  
 
@@ -148,11 +146,11 @@ _In this section, spell out what are your expectations for late work, attendance
 
 #### Make-up Policy 
 
-_In this section, you should clearly state a make-up policy that is in agreement with the relevant statements in the Faculty Handbook._ [[See Faculty Handbook 4.7, 4.9, 4.10, and 4. 11]](https://apps.hr.ou.edu/FacultyHandbook/)
+_In this section, you should clearly state a make-up policy._
 
 #### Absences
 
-_In this section, you should clearly state an attendance policy that is in agreement with the relevant statements in the Faculty Handbook._ [[See Faculty Handbook 4.19]](https://apps.hr.ou.edu/FacultyHandbook/)  
+_In this section, you should clearly state an attendance policy._ 
 
 **Other Policies:** Civility, Emergency Contact, Late Assignments
 
@@ -162,9 +160,9 @@ _In this section, include the mandatory University policies. (Examples are provi
 
 #### Academic Integrity
 
-_There is not specific language for the Academic Integrity policy to be included in the syllabus. It is good to become familiar with the policy and describe it in your own words._ [See [http://integrity.ou.edu/faculty_guide.html](http://integrity.ou.edu/faculty_guide.html)]
+_There is not specific language for the Academic Integrity policy to be included in the syllabus. It is good to become familiar with the policy and describe it in your own words._
 
-Cheating is strictly prohibited at the University of Oklahoma, because it devalues the degree you are working hard to get. As a member of the OU community it is your responsibility to protect your educational investment by knowing and following the rules. For specific definitions on what constitutes cheating, review the Student’s Guide to Academic Integrity at [http://integrity.ou.edu/students_guide.html](http://integrity.ou.edu/students_guide.html)
+Cheating is strictly prohibited, because it devalues the degree you are working hard to get. It is your responsibility to protect your educational investment by knowing and following the rules. For specific definitions on what constitutes cheating, review the Student’s Guide to Academic Integrity.
  
 
 To be successful in this class, all work on exams and quizzes must be yours and yours alone.  You may not receive outside help. On examinations and quizzes you will never be permitted to use your notes, textbooks, calculators, or any other study aids. Should you see someone else engaging in this behavior, I encourage you to report it to myself or directly to the Office of Academic Integrity Programs. That student is devaluing not only their degree, but yours, too. Be aware that it is my professional obligation to report academic misconduct, which I will not hesitate to do. Sanctions for academic misconduct can include expulsion from the University and an F in this course, so don’t cheat. It’s simply not worth it.
@@ -174,28 +172,21 @@ To be successful in this class, all work on exams and quizzes must be yours and 
 
 It is the policy of the University to excuse the absences of students that result from religious observances and to reschedule examinations and additional required classwork that may fall on religious holidays, without penalty.
 
-[[See Faculty Handbook 3.15.2]](https://apps.hr.ou.edu/FacultyHandbook/)
-
 #### Reasonable Accommodation Policy
 
-_There is not specific language for the Reasonable Accommodation policy to be included in the syllabus.  It is good to become familiar with the policy and describe it in your own words.  Including the link to Disability Resources Center is encouraged: _http://www.ou.edu/drc/home.html_
+_There is not specific language for the Reasonable Accommodation policy to be included in the syllabus.  It is good to become familiar with the policy and describe it in your own words.  Including the link to Disability Resources Center is encouraged.
 
-[[See Faculty Handbook 5.4]](https://apps.hr.ou.edu/FacultyHandbook/)
-
-
-Students requiring academic accommodation should contact the Disability Resource Center for assistance at (405) 325-3852 or TDD: (405) 325-4173. For more information please see the Disability Resource Center website [http://www.ou.edu/drc/home.html](http://www.ou.edu/drc/home.html)  
 
 Any student in this course who has a disability that may prevent him or her from fully demonstrating his or her abilities should contact me personally as soon as possible so we can discuss accommodations necessary to ensure full participation and facilitate your educational opportunities.
 
 
 **Title IX Resources and Reporting Requirement**
 
-For any concerns regarding gender-based discrimination, sexual harassment, sexual assault, dating/domestic violence, or stalking, the University offers a variety of resources. To learn more or to report an incident, please contact the Sexual Misconduct Office at 405/325-2215 (8 to 5, M-F) or [smo@ou.edu](mailto:smo@ou.edu). Incidents can also be reported confidentially to OU Advocates at 405/615-0013 (phones are answered 24 hours a day, 7 days a week).  Also, please be advised that a professor/GA/TA is required to report instances of sexual harassment, sexual assault, or discrimination to the Sexual Misconduct Office.  Inquiries regarding non-discrimination policies may be directed to: Bobby J. Mason, University, Equal Opportunity Officer and Title IX Coordinator at 405/325-3546 or [bjm@ou.edu](mailto:%20bjm@ou.edu). For more information, visit [http://www.ou.edu/eoo.html](http://www.ou.edu/eoo.html).
-
+For any concerns regarding gender-based discrimination, sexual harassment, sexual assault, dating/domestic violence, or stalking, the University offers a variety of resources. To learn more or to report an incident, please contact the Sexual Misconduct Office. Also, please be advised that a professor/GA/TA is required to report instances of sexual harassment, sexual assault, or discrimination to the Sexual Misconduct Office.  
 
 **Adjustments for Pregnancy/Childbirth Related Issues**
 
-Should you need modifications or adjustments to your course requirements because of documented pregnancy-related or childbirth-related issues, please contact your professor or the Disability Resource Center at 405/325-3852 as soon as possible. Also, see http://www.ou.edu/eoo/faqs/pregnancy-faqs.html for answers to commonly asked questions.
+Should you need modifications or adjustments to your course requirements because of documented pregnancy-related or childbirth-related issues, please contact your professor or the Disability Resource Center.
 
 ### Tentative Schedule  
   
@@ -217,5 +208,3 @@ Should you need modifications or adjustments to your course requirements because
  
 
 **Assignments, Exams, or Readings**
-
-** **
