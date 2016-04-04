@@ -192,7 +192,7 @@ Any student in this course who has a disability that may prevent him or her from
 
 For any concerns regarding gender-based discrimination, sexual harassment, sexual assault, dating/domestic violence, or stalking, the University offers a variety of resources. To learn more or to report an incident, please contact the Sexual Misconduct Office at 405/325-2215 (8 to 5, M-F) or [smo@ou.edu](mailto:smo@ou.edu). Incidents can also be reported confidentially to OU Advocates at 405/615-0013 (phones are answered 24 hours a day, 7 days a week).  Also, please be advised that a professor/GA/TA is required to report instances of sexual harassment, sexual assault, or discrimination to the Sexual Misconduct Office.  Inquiries regarding non-discrimination policies may be directed to: Bobby J. Mason, University, Equal Opportunity Officer and Title IX Coordinator at 405/325-3546 or [bjm@ou.edu](mailto:%20bjm@ou.edu). For more information, visit [http://www.ou.edu/eoo.html](http://www.ou.edu/eoo.html).
 
- 
+
 **Adjustments for Pregnancy/Childbirth Related Issues**
 
 Should you need modifications or adjustments to your course requirements because of documented pregnancy-related or childbirth-related issues, please contact your professor or the Disability Resource Center at 405/325-3852 as soon as possible. Also, see http://www.ou.edu/eoo/faqs/pregnancy-faqs.html for answers to commonly asked questions.
