@@ -1,4 +1,4 @@
-**University of xxxx**
+**University of xxx**
 
 **College**
 
