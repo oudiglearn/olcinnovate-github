@@ -9,7 +9,7 @@ For this workshop, we've supplied you with a standard syllabus (syllabus.md). As
 
 1. Click the [syllabus.md](https://github.com/oudiglearn/olcinnovate-github/blob/master/Group%201%20-%20Collaborative%20Design/SYLLABUS.md) link.
 2. Click "Edit this file"
-!(images/editrepo.png)
+![Edit Repository](https://raw.githubusercontent.com/oudiglearn/olcinnovate-github/master/images/editrepo.jpg)
 3. Begin making edits to the syllabus.md file.  
 
 
