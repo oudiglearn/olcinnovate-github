@@ -7,10 +7,10 @@ Github can be utilized for collaborative course design for both an instructional
 ## Instructional Design Approach
 For this workshop, we've supplied you with a standard syllabus (syllabus.md). As a group, decide what institution you would like to be (i.e. University of Disruption) and what course for which you would like to build a syllabus (i.e. "The History of Education Technology Since 2011") and other relevant information (instructor: Cassius Clay Christian and Sons)
 
-1. Click the [syllabus.md](https://github.com/oudiglearn/olcinnovate-github/blob/master/Group%201%20-%20Collaborative%20Design/SYLLABUS.md) link.
-2. Click "Edit this file"
+1. **Click the [syllabus.md]**(https://github.com/oudiglearn/olcinnovate-github/blob/master/Group%201%20-%20Collaborative%20Design/SYLLABUS.md) link.
+2. **Click "Edit this file"**
 ![Edit Repository](https://raw.githubusercontent.com/oudiglearn/olcinnovate-github/master/images/editrepo.jpg)
-3. Begin making edits to the syllabus.md file.  
+3. **Begin making edits to the syllabus.md file.** You'll notice that that character styling is marked up with using Markdown. You can use this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 
 ## Instructor Approach
