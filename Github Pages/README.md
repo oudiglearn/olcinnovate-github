@@ -7,10 +7,10 @@ Seriously. That's it. Fork another website. So let's fork this one called [Clean
 
 ![Clean Blog](images/cleanblogorig.png)
 
-## Jekyll
+### Jekyll
 This template uses a CMS called Jekyll, which generates static HTML pages. This means that to blog we won't have to write actual HTML, instead we will write in a Github flavor of Markdown. If necessary, feel free to use this [Markdown Cheatset](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet).
 
-## Is this thing already live?!
+### Is this thing already live?!
 Yes! To find your web address, click on Settings.
 
 ![Settings](images/settings.png)
@@ -23,10 +23,10 @@ This is because Github automatically publishes repositories that have a special 
 
 ![ghpages branch](images/ghpagesbranch.png)
 
-## How can I write a post?
+### How can I write a post?
 Click on the folder in your repository labeled "_posts".
 
-![Click posts](images/clikcposts.png)
+![Click posts](images/clickposts.png)
 
 You'll find a set of posts already in there labeled in a format of YYYY-MM-DD-title-goes-here.markdown. Let's go ahead and edit one of them to see how this works. Click on the file label "2015-06-10-hello-world.markdown" and then click the pencil icon to edit the file.
 
@@ -60,3 +60,43 @@ Once you are done, you'll want to Commit your change.
 Now go back to Settings recover that link and you'll see the changes take place (you may need to refresh the page).
 
 ![Edited blog post](images/cleanblogedit.png)
+
+You can, of course, create new blog posts too. To do that, go back into your _posts folder and create a new file. Make sure you stick with the file format `YYYY-MM-DD-title.markdown`. You'll also want to add the YAML at the top of the post:
+
+
+```
+---
+layout:     post
+title:      
+subtitle:   
+date:       YYYY-MM-DD 12:00:00
+author:   
+header-img:
+---
+```
+
+## Hosting HTML
+As mentioned earlier, Github can simply host HTML as well. Here are some directions on how to do that.
+
+### Create a gh-pages branch
+Create a new repository, or go to an existing one. In the repository overview, click the branch drop-down on the left-hand side. Type in gh-pages and press enter.
+
+![New Branch](images/newbranch.png)
+
+### Create an index file
+Use the plus icon next to the repository name to create a new file.
+
+![New file](images/plusicon.png)
+
+Name the file `index.html` and type in `Hello World` for the content.
+
+![Hello World](images/indexhtml.png)
+
+### Commit the file
+Scroll to the bottom of the page, write a commit message, and commit the new file.
+
+![Hello World](images/commithtml.png)
+
+### ...and you're done!
+Go to http://username.github.io/repository.
+
