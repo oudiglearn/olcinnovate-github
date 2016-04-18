@@ -11,4 +11,4 @@ This template uses a CMS called Jekyll, which generates static HTML pages. This 
 ## Is this thing already live?!
 Yes! To find your web address, click on Settings.
 
-[Settings](images/settings.png)
+![Settings](images/settings.png)
